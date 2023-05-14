@@ -1,4 +1,4 @@
-# # 💫 About Me:
+## 💫 About Me:
 We are currently working on InvokeApps<br>We're looking to collaborate on satisfying projects<br>We're looking for help from great people<br>We're currently learning AI applied to industry<br>Ask us about making dreams with technology.
 
 
