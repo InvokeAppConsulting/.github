@@ -1,5 +1,5 @@
 # # 💫 About Me:
-I'm currently working on InvokeApp<br>I'm looking to collaborate with satisfying projects<br>I'm looking for help with great persons<br>I'm currently learning AI applied to industry<br>Ask me about making dreams with technology
+We are currently working on InvokeApps<br>We're looking to collaborate on satisfying projects<br>We're looking for help from great people<br>We're currently learning AI applied to industry<br>Ask us about making dreams with technology.
 
 
 ## 🌐 Socials:
