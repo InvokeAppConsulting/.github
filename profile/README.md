@@ -1,5 +1,5 @@
 
-<img src="https://invoke-app-space.nyc3.cdn.digitaloceanspaces.com/Screenshot%202023-08-21%20195305.png" alt="Invoke App Consulting">
+<img src="https://invoke-app-space.nyc3.cdn.digitaloceanspaces.com/projects/invokeapp/Invoke_Background.png" alt="Invoke App Consulting">
 
 <!-- [Visit our website](http://invokeapp.io) -->
 
